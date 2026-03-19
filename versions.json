@@ -4,6 +4,12 @@
       "versionName": "1.2",
       "versionCode": 3,
       "downloadUrl": "https://github.com/Bluemangoo/DragonflyRelease/releases/download/1.2/dragonfly-1.2.apk"
+    },
+    {
+      "versionName": "1.2.1",
+      "versionCode": 4,
+      "downloadUrl": "https://github.com/Bluemangoo/DragonflyRelease/releases/download/1.2.1/dragonfly-1.2.1.apk",
+      "description": "- 修正了刷脸未被激活的问题\n- 增加了本地和远程记录的数据绑定和UI\n- 重写了导入和导出"
     }
   ]
 }
