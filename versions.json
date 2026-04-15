@@ -64,6 +64,12 @@
       "versionCode": 13,
       "downloadUrl": "https://github.com/Bluemangoo/DragonflyRelease/releases/download/1.3.8/dragonfly-1.3.8.apk",
       "description": "bugfix"
+    },
+    {
+      "versionName": "1.3.9",
+      "versionCode": 14,
+      "downloadUrl": "https://github.com/Bluemangoo/DragonflyRelease/releases/download/1.3.9/dragonfly-1.3.9.apk",
+      "description": "修了一些ui问题"
     }
   ]
 }
