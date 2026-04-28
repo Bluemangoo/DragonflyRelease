@@ -1,4 +1,4 @@
 {
-  "version": 1,
-  "content": "加了公告功能，但是不知道写什么。"
+  "version": 3,
+  "content": "最近服务器出问题，碰到 String cannot be convert to JSONObject就不要着急重试了，换红蜻蜓一样挂，迟点再试。"
 }
